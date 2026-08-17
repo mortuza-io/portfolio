@@ -1,0 +1,26 @@
+[
+  {
+    "name": "SUST CSE Carnival Hackathon",
+    "description": "Participated with Agent Liquidity Management Platform and advanced to the Top 50 finalists.",
+    "tech": "Hackathon",
+    "result": "Top 50 Finalist",
+    "certificate": "https://drive.google.com/file/d/1PZU8rXVB0zj1afAIM0U70Ush1dU7L-nI/view?usp=sharing",
+    "order": 1
+  },
+  {
+    "name": "DevFusion Mini Hackathon",
+    "description": "Built UniCart, a website that gathers product prices and details from Daraz and international shopping platforms including Walmart.",
+    "tech": "Hackathon · UniCart",
+    "result": "1st Runner-Up",
+    "certificate": "",
+    "order": 2
+  },
+  {
+    "name": "Bangladesh Vehicle Detection — DUET Kaggle Competition",
+    "description": "Built a computer-vision solution for the DUET Bangladesh Vehicle Detection competition on Kaggle and ranked 35th with a score of 0.59192.",
+    "tech": "DUET · Kaggle · Computer Vision",
+    "result": "35th Place · 0.59192",
+    "certificate": "https://drive.google.com/file/d/1IN9awEdTAzt7ZFErzvyeQLxT2O7RjG--/view?usp=sharing",
+    "order": 3
+  }
+]

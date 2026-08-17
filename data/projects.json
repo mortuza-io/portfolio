@@ -1,0 +1,51 @@
+[
+  {
+    "name": "RoadVision — YOLOv11 Detection Pipeline",
+    "description": "Object detection pipeline built for a Kaggle road-vision competition, tuned through augmentation and test-time augmentation on dual T4 GPUs.",
+    "tech": "Personal · CV",
+    "language": "Python",
+    "links": {},
+    "featured": true,
+    "order": 1
+  },
+  {
+    "name": "Likumi",
+    "description": "A Firefox extension that scrapes tables, lists, links, and text from any web page.",
+    "tech": "Personal · Extension",
+    "language": "JavaScript",
+    "links": {
+      "github": "https://github.com/mortuza-io/Likumi-web-scraper"
+    },
+    "featured": true,
+    "order": 2
+  },
+  {
+    "name": "Disaster Management System",
+    "description": "Relational database design on Microsoft SQL Server for coordinating disaster relief operations.",
+    "tech": "University · DB",
+    "language": "T-SQL",
+    "links": {},
+    "featured": true,
+    "order": 3
+  },
+  {
+    "name": "University Management System",
+    "description": "Java application handling courses, students, and faculty management for a university-style workflow.",
+    "tech": "University",
+    "language": "Java",
+    "links": {},
+    "featured": true,
+    "order": 4
+  },
+  {
+    "name": "Smart Office Power Monitoring System",
+    "description": "A smart office power monitoring system built during an IUT hackathon.",
+    "tech": "IUT Preli · Hackathon",
+    "language": "JavaScript",
+    "links": {
+      "github": "https://github.com/mortuza-io/IUT_Hackathon_Preli"
+    },
+    "featured": true,
+    "order": 5
+  }
+]
